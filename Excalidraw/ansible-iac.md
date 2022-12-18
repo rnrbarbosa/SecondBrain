@@ -12,9 +12,9 @@ Plugins ^VCP98vGR
 
 
 # Embedded files
-7a1c3c9cd115a3f495ce64784cec8d3a7467b0c5: [[Pasted Image 20221218142651_191.png]]
-51115562d5fb1d3d0aa15192c6d85a17e4936b03: [[Pasted Image 20221218142841_244.png]]
-b7645b3724eb155f4bf893c8e26cfc3a85262e62: [[Pasted Image 20221218142911_259.png]]
+7a1c3c9cd115a3f495ce64784cec8d3a7467b0c5: [[ansible-logo.png]]
+51115562d5fb1d3d0aa15192c6d85a17e4936b03: [[gitlab-logo.png]]
+b7645b3724eb155f4bf893c8e26cfc3a85262e62: [[azure-logo.png]]
 
 %%
 # Drawing
