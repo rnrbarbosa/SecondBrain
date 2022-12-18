@@ -20,25 +20,6 @@
       "left": 0
     }
   },
-  "Fleeting Notes/AWS.md": "FabAws",
-  "Fleeting Notes/Azure.md": "SiMicrosoftazure",
-  "Fleeting Notes/Azure Data Factory.md": "SiMicrosoftazure",
-  "Fleeting Notes/Azure Databricks.md": "SiMicrosoftazure",
-  "Fleeting Notes/Azure Identities.md": "SiMicrosoftazure",
-  "Fleeting Notes/Azure Monitoring.md": "SiMicrosoftazure",
-  "Fleeting Notes/Azure Python SDK.md": "SiPythonWhite",
-  "Fleeting Notes/Azure Synapse Analytics.md": "SiMicrosoftazure",
-  "Fleeting Notes/Cloud Education.md": "SiIcloud",
-  "Journal": "RiCalendarLine",
   "Literature Notes": "RiBookLine",
-  "Fleeting Notes": "FabFly",
-  "Plans": "IbStackHorizontal",
-  "Spaces": "FarMap",
-  "Templates": "FasStamp",
-  "Fleeting Notes/Python Language.md": "SiPython",
-  "Templates/Azure Note Template.md": "SiMicrosoftazure",
-  "Templates/Python Note Template.md": "SiPythonWhite",
-  "Templates/Note Template.md": "FarNoteSticky",
-  "Templates/Map of Content.md": "FasSitemap",
-  "Templates/Kanban.md": "FarCalendarCheck"
+  "Spaces": "FarMap"
 }
