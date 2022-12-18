@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "Fleeting Notes",
+  "attachmentFolderPath": "_media_assets"
+}
