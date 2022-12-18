@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.5
   },
   "right": {
     "id": "1316d750e6cffd12",
@@ -113,14 +113,14 @@
   "active": "68ed6658946bd2d4",
   "lastOpenFiles": [
     "Excalidraw/ansible-iac.md",
+    "Excalidraw/ansible-iac 2.md",
+    "Excalidraw/data-mesh-planes-basic.excalidraw.md",
+    "Excalidraw/data-mesh-planes-actos.excalidraw.md",
+    "Excalidraw/data-mesh-data-product.excalidraw.md",
     "Excalidraw/Drawing 2022-12-18 14.39.54.excalidraw.md",
     "Fleeting Notes/Draw test.md",
     "_media_assets/Pasted Image 20221218142911_259.png",
     "_media_assets/Pasted Image 20221218142841_244.png",
-    "_media_assets/Pasted Image 20221218142651_191.png",
-    "Fleeting Notes/Azure Databricks.md",
-    "Templates/Map of Content.md",
-    "Templates/Python Note Template.md",
-    "Templates/Azure Note Template.md"
+    "_media_assets/Pasted Image 20221218142651_191.png"
   ]
 }
