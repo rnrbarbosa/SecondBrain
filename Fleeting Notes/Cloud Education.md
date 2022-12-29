@@ -1,5 +1,5 @@
 Major Cloud Providers:
-1. [[Azure]]
+1. [[Fleeting Notes/Azure]]
 2. [[AWS]]
 3. [[Google Cloud]]
 
