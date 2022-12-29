@@ -11,4 +11,5 @@
 - [[Python Generators]]
 - [[Python Testing with Pytest]]
 - [[Python Telemetry]]
+- [[Python CLI Applications]]
 - 
